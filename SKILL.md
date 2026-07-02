@@ -1,284 +1,223 @@
 ---
-name: storybrand
-description: "Applies the StoryBrand SB7 Framework from Building a StoryBrand by Donald Miller. Use when writing website copy, crafting brand messaging, creating marketing materials, building sales funnels, or designing email campaigns. The SB7 Framework positions the customer as the hero and the brand as the guide across 7 story elements. Triggers include 'how should we write our website', 'our messaging is confusing', 'customers don't understand what we do', 'how do I write a tagline', 'what should our homepage say', 'nobody reads our emails', 'how do I create a lead generator', 'our marketing isn't working but our product is good'. NOT for growth channel selection (use Traction), not for product positioning against competitors (use Obviously Awesome), not for pricing (use Monetizing Innovation)."
+name: "100m-leads"
+description: Builds lead generation systems using Alex Hormozi's Core Four framework (warm outreach, content, cold outreach, paid ads), lead magnets, and Rule of 100. Use when designing customer acquisition, scaling advertising, choosing marketing channels for revenue stage, building referral programs, or fixing low lead flow. Covers lead magnets, LTGP:CAC math, More Better New scaling, and Lead Getters (referrals, employees, agencies, affiliates).
 ---
 
 > **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
 
 
-# StoryBrand
+# $100M Leads
 
-> "If you confuse, you'll lose." - Donald Miller
+> "How to get strangers to want to buy your stuff" - Alex Hormozi
 
-## Should You Use This Skill?
+## The Core Four Framework
 
-```
-Is your marketing underperforming despite a good product?
-|-- YES --> Can customers explain what you do in one sentence?
-|   |-- NO  --> THIS SKILL. You have a clarity problem.
-|   +-- YES --> Do they understand why they should care?
-|               |-- NO  --> THIS SKILL. You're not connecting to their story.
-|               +-- YES --> Problem is elsewhere. Try Traction (channels) or
-|                           Obviously Awesome (competitive positioning).
-+-- NO  --> Is your product actually good?
-            |-- NO  --> Fix product first (Lean Startup / Four Steps).
-            +-- YES --> Are customers finding you?
-                        |-- NO  --> Use Traction. Distribution problem, not messaging.
-                        +-- YES but not converting --> THIS SKILL.
-```
+All advertising falls into 4 categories on two axes:
 
----
+| | Warm Audience (knows you) | Cold Audience (strangers) |
+|---|---|---|
+| **1-to-1** | Warm Outreach | Cold Outreach |
+| **1-to-Many** | Post Free Content | Run Paid Ads |
 
-## The Core Insight
+**Rule:** Master ONE before adding another. Don't spread thin across all four.
 
-**Customers don't buy the best products. They buy the products they can understand the fastest.**
-
-The human brain is a survival processor. It has two jobs:
-1. Help us survive and thrive
-2. Conserve calories (mental energy)
-
-If a customer hits your website and burns too many calories trying to figure out what you offer, they leave. It doesn't matter how good your product is. **Noise kills sales.**
-
-Story is the antidote to noise. Story is the most powerful tool for organizing information because the human brain is hardwired for narrative. The SB7 Framework forces your messaging into a story structure that every brain already knows how to process.
-
-### The Mistake Every Brand Makes
+## Decision Tree
 
 ```
-WHAT BRANDS DO:                        WHAT BRANDS SHOULD DO:
-Position themselves as the HERO        Position themselves as the GUIDE
-Talk about their own journey           Talk about the customer's journey
-Lead with features and history         Lead with the customer's problem
-Use insider jargon                     Use simple, clear language
-Make the customer work to understand   Make the offer obvious in 5 seconds
+Do you have 10 paying customers?
+├─ NO → Warm outreach until you do
+└─ YES → Pick based on resources:
+         ├─ Have time, no money → Cold outreach or Content
+         ├─ Have money, no time → Paid ads
+         └─ Have both → Cold outreach + Content
 ```
 
-The customer is the hero. The brand is the guide. **Every great story follows this pattern: a CHARACTER who wants something encounters a PROBLEM before they can get it. At the peak of their despair, a GUIDE steps into their life, gives them a PLAN, and CALLS THEM TO ACTION. That action either ends in SUCCESS or FAILURE.**
-
----
-
-## The SB7 Framework
-
-Seven story elements. Get them right and your marketing works. Get them wrong and you're burning money.
-
-### 1. A Character (The Customer)
-
-The hero wants something. You must define what.
-
-**Rules:**
-- Choose ONE desire related to your offering (not twenty)
-- The desire must be a survival-related need (physical, emotional, or aspirational)
-- Open a "story gap" between where they are and where they want to be
-
-**The 7 survival categories** (all desire maps to these):
-
-| Category | Example |
-|----------|---------|
-| Conserving financial resources | Save money, build wealth |
-| Conserving time | Efficiency, automation, less hassle |
-| Building social networks | Community, belonging, status |
-| Gaining status | Recognition, respect, credibility |
-| Accumulating resources | Tools, knowledge, assets |
-| The innate desire to be generous | Give back, legacy, meaning |
-| The desire for meaning | Purpose, self-actualization |
-
-**Test:** Can you fill in: "Our customer wants ___________"? If you can't say it in one phrase, you haven't identified it yet.
-
-### 2. Has a Problem
-
-This is where most brands fail. They talk about solutions before establishing the problem. **The deeper you define the problem, the more the customer trusts you as the guide.**
-
-Three layers:
-
-| Layer | What It Is | Example (Financial Advisor) |
-|-------|-----------|---------------------------|
-| **External** | The tangible, surface-level problem | "I don't have a retirement plan" |
-| **Internal** | How the problem makes them FEEL | "I feel confused and overwhelmed" |
-| **Philosophical** | Why this is WRONG or UNJUST | "Retirement shouldn't be this complicated" |
-
-**The Villain:** Every problem needs a villain - a root cause. Not a person necessarily, but a force: complexity, inefficiency, frustration, wasted time, unfair pricing.
-
-**Critical insight:** Companies sell solutions to external problems. Customers buy solutions to internal problems. The internal problem is where the sale happens.
-
-### 3. And Meets a Guide (You)
-
-The brand enters the story not as another hero but as the guide - the Yoda to their Luke Skywalker.
-
-**Two qualities of a guide:**
-
-| Quality | What It Communicates | How to Demonstrate |
-|---------|---------------------|--------------------|
-| **Empathy** | "I understand your pain" | "We know what it's like to..." |
-| **Authority** | "I can actually help" | Testimonials, stats, logos, awards |
-
-**Authority without empathy = arrogance.** Empathy without authority = weakness. You need both.
-
-**Four ways to show authority:**
-1. Testimonials (strongest)
-2. Statistics ("helped 10,000+ businesses")
-3. Awards and recognitions
-4. Logos of clients served
-
-### 4. Who Gives Them a Plan
-
-Customers don't take action when they're confused. A plan removes confusion.
-
-**Two types:**
-
-| Plan Type | Purpose | Format |
-|-----------|---------|--------|
-| **Process Plan** | Shows the path from here to there | 3-6 numbered steps |
-| **Agreement Plan** | Removes fear of doing business with you | List of commitments/guarantees |
-
-**Process plan rule:** 3-6 steps maximum. If it takes more, you're overcomplicating it. Name the plan something catchy if possible.
-
-**Agreement plan examples:** Money-back guarantee, "No spam ever," "Cancel anytime," satisfaction pledges.
-
-### 5. And Calls Them to Action
-
-**Without a clear call to action, nothing happens.** Most brands are too passive.
-
-| CTA Type | Purpose | Examples |
-|----------|---------|---------|
-| **Direct** | The sale. The thing you want them to do. | "Buy Now," "Schedule a Call," "Get Started" |
-| **Transitional** | For people not ready to buy yet. | Free PDF, webinar, trial, assessment |
-
-**Rules for direct CTAs:**
-- One primary CTA, everywhere, always visible
-- Use a different color button than everything else on the page
-- Repeat it multiple times on every page
-
-**Three powers of transitional CTAs:**
-1. Stakes a claim to your territory (establishes expertise)
-2. Creates reciprocity (free value = goodwill)
-3. Positions you as the guide (delivers a quick win)
-
-### 6. That Helps Them Avoid Failure
-
-People are more motivated by fear of loss than desire for gain (loss aversion = 2-3x stronger). Your messaging must answer: "What happens if they DON'T engage with you?"
-
-**The "salt in the recipe" rule:** Use just enough failure/stakes to create urgency, but don't overdo it. Too much fear = paralysis. Too little = no urgency.
-
-**Four-step fear appeal:**
-1. Make the reader know they're vulnerable to a threat
-2. Make them know they should take action to reduce vulnerability
-3. Make them know a specific call to action that protects them
-4. Challenge them to take that specific action
-
-### 7. And Ends in a Success
-
-Paint the picture of life AFTER they use your product. Be specific.
-
-**Three story endings that resonate:**
-1. **Power/Position** - Status, authority, winning ("Become the leader your team needs")
-2. **Union/Wholeness** - Completeness, reduced anxiety, connection ("Everything in one place")
-3. **Self-Realization** - Reaching potential, identity shift ("Become who you were meant to be")
-
-**+ Identity Transformation (the most powerful element):**
-
-| FROM (before your product) | TO (after your product) |
-|---------------------------|------------------------|
-| Confused | Confident |
-| Overwhelmed | In control |
-| Amateur | Professional |
-| Stressed | At peace |
-
-**Test:** Can you fill in: "Before us, our customer felt ___. After us, they feel ___"?
-
----
-
-## The BrandScript (One-Page Summary)
-
-Fill this in and use it to generate ALL marketing materials:
-
 ```
-CHARACTER:    [Customer] wants [desire].
-PROBLEM:      Villain: [root cause]. External: [tangible problem].
-              Internal: [how it feels]. Philosophical: [why it's wrong].
-GUIDE:        Empathy: [we understand...]. Authority: [proof].
-PLAN:         Step 1: [___]. Step 2: [___]. Step 3: [___].
-CALL TO ACTION: Direct: [___]. Transitional: [___].
-FAILURE:      If they don't act: [specific negative outcomes].
-SUCCESS:      If they do act: [specific positive outcomes].
-TRANSFORMATION: From [___] to [___].
+Already running channels?
+├─ Spreading across 4 → Cut to 1, master it
+├─ One channel profitable → More Better New
+├─ Hit personal capacity → Hire someone to run it
+└─ Multiple channels profitable → Add lead getters (referrals/affiliates)
 ```
 
-Detailed templates and worked examples: see [examples.md](examples.md).
+## Lead Definitions
 
----
+| Term | Definition |
+|------|------------|
+| **Lead** | A person you can contact |
+| **Engaged Lead** | A person who has shown interest |
+| **Qualified Lead** | A person who can afford and is likely to buy |
 
-## The One-Liner
+Quality > volume. An engaged lead is worth many cold names.
 
-A single statement that makes people want to know more. Use it everywhere: email signatures, social bios, elevator pitches, website headers.
+## Lead Magnets
 
-**Formula:**
-```
-[PROBLEM] + [SOLUTION] + [RESULT]
-```
+A lead magnet is a complete solution to a narrow problem. Free or low-cost. Reveals a bigger problem your core offer solves.
 
-**Examples:**
-- "Most small businesses waste money on marketing that doesn't work. We created a framework that clarifies your message so customers listen. Companies that use our framework see dramatic revenue growth."
-- "Planning a wedding is stressful. We've created a comprehensive online tool to make planning a wedding simple and fun. Enjoy your engagement."
+### 7 Steps to Create
 
----
+1. **Pick the problem** - Narrow, meaningful, leads to your core offer
+2. **Figure out the solution** - One of three types below
+3. **Choose delivery method** - PDF, video, tool, trial
+4. **Test the name** - Name matters more than content
+5. **Make it easy to consume** - Under 10 minutes ideally
+6. **Make it darn good** - Good enough to charge for
+7. **Make it easy to ask for more** - Clear next step to your offer
 
-## Website: The 5-Second Test
+### 3 Types of Lead Magnets
 
-A visitor should be able to answer three questions within 5 seconds of landing on your site:
-1. **What do you offer?**
-2. **How will it make my life better?**
-3. **What do I need to do to buy it?**
+| Type | How It Works | Example |
+|------|--------------|---------|
+| **Reveal Problems** | Diagnosis showing problem they didn't know they had | Website speed test, posture analysis |
+| **Samples/Trials** | Limited access to your core offer | Free month, 3 free uses, demo |
+| **One Step of Multi-Step** | Solve step 1 of a 5-step process | Free template, calculator, checklist |
 
-**Five things every website needs:**
+The lead magnet solves one problem, which reveals the NEXT problem your core offer solves.
 
-| Element | Placement |
-|---------|-----------|
-| An offer above the fold | Header area, with image of success |
-| Obvious calls to action | Two buttons: direct CTA (bold color) + transitional CTA (less prominent) |
-| Images of success | Show end state, not process. Happy outcomes, not product screenshots. |
-| Bite-sized revenue breakdown | Break complex offerings into simple categories |
-| Very few words | Ruthlessly cut copy. If it doesn't serve the story, kill it. |
+## The Core Four Channels (Summary)
 
----
+Detailed playbooks in **[frameworks.md](frameworks.md)**.
 
-## The Marketing Roadmap (5 Tasks)
+### 1. Warm Outreach (Free, 1-to-1)
+Start here. Phone contacts, email, social media followers = your warm list. Personalize. Use ACA framework (Acknowledge, Compliment, Ask). Ask for referrals.
 
-After completing the BrandScript, execute these five tasks to build a complete marketing system:
+### 2. Post Free Content (Free, 1-to-Many)
+Build an audience. Hook-Retain-Reward. Give-Give-Give-Ask pattern. Don't pitch until they reach out.
 
-1. **Create a One-Liner** - Your elevator pitch. Use everywhere.
-2. **Create a Lead Generator** - Free resource that solves a small problem (PDF, quiz, video series, webinar). Gate it with an email capture.
-3. **Create an Automated Email Drip Campaign** - Nurture sequence: deliver value, then make an offer. Mix nurture emails (tips, stories) with sales emails.
-4. **Collect Transformation Testimonials** - Not "great product!" testimonials. Before/after stories: "Before I was [problem]. After working with [brand], I am [transformation]."
-5. **Create a Referral System** - Give existing customers a reason and a mechanism to refer others.
+### 3. Cold Outreach (Free/Cheap, 1-to-1)
+Reach strangers. Personalization + Big Fast Value. Volume + multi-channel follow-up. List of 1000+ to start.
 
-Detailed implementation guides: see [frameworks.md](frameworks.md).
+### 4. Run Paid Ads (Paid, 1-to-Many)
+Trade money for attention at scale. Three phases: Track Money → Lose Money → Print Money. Use lookalike + factor targeting. Detailed math in **[paid-ads.md](paid-ads.md)**.
 
----
+## The Money Math: LTGP:CAC
 
-## Scope and Limitations
+**LTGP** = Lifetime Gross Profit (total customer revenue minus delivery cost)
+**CAC** = Cost to Acquire Customer
 
-### What This Framework Gets Right
-- Simplifies messaging with a universal narrative structure
-- The customer-as-hero principle eliminates self-centered marketing
-- The BrandScript is immediately actionable - one page drives all copy
-- Website framework alone can dramatically improve conversion rates
-- Works across industries, company sizes, and channels
+| Ratio | Meaning |
+|-------|---------|
+| <3:1 | Struggling to scale |
+| 3:1 | Minimum viable |
+| >3:1 | Ready to scale |
 
-### What's Dated or Limited
-- **Assumes awareness exists.** StoryBrand helps you convert attention into action. It doesn't help you GET attention. Use Traction for channel selection.
-- **Weak on competitive positioning.** SB7 tells you how to talk about yourself, not how to position against specific competitors. Use Obviously Awesome for competitive context.
-- **B2C bias.** Many examples are small business / consumer-facing. The framework works for B2B but requires adaptation for complex, multi-stakeholder sales (add SPIN Selling).
-- **No pricing guidance.** Great messaging with wrong pricing still fails. Use Monetizing Innovation.
-- **Oversimplifies for complex products.** If you have multiple buyer personas with different problems, you may need multiple BrandScripts. The book doesn't address this well.
-- **"Guide" positioning can conflict with category creation.** If you're creating a new category (Blue Ocean Strategy), the "guide" framing may not fit - you may need to be the visionary, not the mentor.
+**Note:** Hormozi uses LTGP (Lifetime Gross Profit) specifically, not LTV. The distinction matters - LTGP excludes delivery cost.
 
-### The Honest Assessment
-The SB7 Framework is best understood as a **messaging and copy framework**, not a complete marketing strategy. It's the "what to say" piece. You still need:
-- Traction: where to say it
-- Obviously Awesome: how to position it against competitors
-- $100M Offers: how to package the offer itself
-- Monetizing Innovation: how to price it
+If CAC is above 3x industry average, fix ads. If below, fix the business model (increase LTGP).
 
-Framework details, deep dives, and implementation guides: see [frameworks.md](frameworks.md).
-Case studies with results: see [cases.md](cases.md).
-Templates and worksheets: see [examples.md](examples.md).
-Cross-skill integration: see [integration.md](integration.md).
+### Client Financed Acquisition
+
+Break even on acquisition cost in ~30 days = unlimited scaling. If a customer pays you back in 30 days, you can fund acquisition with a credit card and reinvest infinitely.
+
+How: upsells, order bumps, higher upfront pricing - anything to collect more cash faster.
+
+## Rule of 100
+
+Every day, do ONE of:
+- 100 cold outreach attempts (calls, emails, DMs)
+- 100 minutes creating content
+- 100 minutes of paid ad work
+- $100 spent on ads
+
+Minimum viable daily advertising. Do this for 100 days before concluding "it doesn't work."
+
+### Open to Goal (Advanced)
+Work until you hit a specific OUTCOME, not a number of inputs.
+
+| Stage | Use |
+|-------|-----|
+| Starting | Rule of 100 (effort-based) |
+| Scaling | Open to Goal (outcome-based) |
+
+## More Better New (Scaling)
+
+Framework for scaling what works:
+
+1. **MORE** - Do 10x what you're currently doing. What's stopping you?
+2. **BETTER** - Find the constraint, fix it, do more again
+3. **NEW** - Only after exhausting more+better:
+   - New placements on same platform
+   - Same placements on new platform
+   - New placements on new platform
+   - Add another Core Four activity
+
+"More" and "better" work together. Do more until it breaks, then make it better, then do more again.
+
+## Lead Getters (Others Get Leads For You)
+
+Once YOU can get leads, get others to do it.
+
+### 4 Types
+
+| Type | Who | How |
+|------|-----|-----|
+| **Customers** | Existing buyers | Referral program |
+| **Employees** | Your team | Train + incentivize |
+| **Agencies** | Marketing firms | Pay for results |
+| **Affiliates** | Partners with audiences | Commission structure |
+
+Detailed playbook in **[lead-getters.md](lead-getters.md)**.
+
+## Warning Signs
+
+### Spreading Too Thin
+- Running ads + cold outreach + posting content simultaneously
+- None of the channels are profitable
+- Can't answer "what's your best lead source?"
+- "Testing" multiple channels for 6+ months
+
+### Outreach Is Broken
+- Response rate below ~1% (actual rates vary heavily by list quality, channel, market - this is a directional warning sign)
+- No replies to follow-ups
+- Frequent "unsubscribe" or "stop"
+- Can't get past the first reply
+
+### Content Isn't Working
+- 3+ months posting with no leads
+- Engagement but no DMs or comments
+- Followers but no buyers
+- Content gets no shares
+
+## Rules of Thumb
+
+1. **Warm before cold.** Your network is worth more than you think.
+2. **One channel mastery beats four channel dabbling.** Depth > breadth.
+3. **Volume solves most problems.** Not enough leads? Do more outreach.
+4. **Follow up until they buy or tell you to stop.** Most quit too early.
+5. **Track everything.** If you can't measure it, you can't improve it.
+6. **Give first.** Value before ask, always.
+7. **Speed wins.** Respond to leads in minutes, not hours.
+8. **The best ad is a happy customer.** Referrals typically convert better than cold traffic.
+
+## The Order
+
+1. Warm outreach (free, start here)
+2. Pick ONE: content OR cold OR paid
+3. Master it until profitable
+4. Hire someone to run it
+5. Add next channel
+6. Add lead getters (referrals, affiliates)
+
+**Test:** If someone asks "how do you get customers?" and you can't give a clear, specific answer - you haven't mastered your channel yet.
+
+## When This Doesn't Apply
+
+| Context | Why |
+|---------|-----|
+| **Pre-product** | Don't generate leads until you have something to sell |
+| **Capacity constrained** | Don't get more leads than you can handle |
+| **Retention problems** | Fix churn before adding more leads |
+| **Offer problems** | A bad offer won't convert no matter how many leads (use 100m-offers) |
+
+## The Mindset (Many-Sided Die)
+
+You have a die with unknown sides - one green, the rest red. Roll green and a red turns green; roll red and nothing happens. The only way to lose is to stop rolling. More rolls, more greens; persistence is mathematically guaranteed to work. Full breakdown with the advertising application in **[cases.md → The Many-Sided Die](cases.md)**.
+
+## Supporting Files
+
+- **[frameworks.md](frameworks.md)** - Detailed Core Four channel playbooks (warm, content, cold)
+- **[paid-ads.md](paid-ads.md)** - Paid advertising deep dive (targeting, callouts, budgets, metrics, three phases)
+- **[lead-getters.md](lead-getters.md)** - Referral programs, hiring, agencies, affiliates, the 3Ds training framework
+- **[cases.md](cases.md)** - Roadmap from $0 to $100M (7 levels), case-style examples, decade-in-a-page
+- **[examples.md](examples.md)** - Email templates, ad scripts, content hooks, checklists
+- **[integration.md](integration.md)** - How leads connects to mom-test, 100m-offers, influence; conflicts with crossing-the-chasm channel choice

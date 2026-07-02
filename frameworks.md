@@ -1,366 +1,217 @@
-# Frameworks - StoryBrand
+# 100m-leads - Detailed Channel Playbooks
 
-## SB7 Framework - Deep Dive
+## Lead Magnet Naming
 
-### Module 1: A Character - Advanced
+The name matters more than the content. A great name on a mediocre lead magnet outperforms a weak name on a great one. People decide whether to opt in based on the name alone - they haven't seen the content yet.
 
-The first mistake is making the brand the hero. The second mistake is giving the hero too many desires.
+**Naming formula:** Promise a specific outcome in a specific timeframe for a specific audience.
 
-**Story Gap mechanics:**
-- A story begins when a character wants something
-- The gap between desire and current state creates tension
-- Tension is what keeps people engaged (and buying)
-- Your marketing should open a story gap and position your product as the resolution
+| Bad Name | Good Name | Why |
+|----------|-----------|-----|
+| "Marketing Guide" | "The 5-Day Cold Email Playbook for Freelancers" | Specific audience, specific outcome, specific timeframe |
+| "Free Checklist" | "The 10-Point Pre-Launch Checklist for SaaS Founders" | Tells them exactly what they get and who it's for |
+| "Weight Loss Tips" | "Lose 10 Pounds in 30 Days Without Cutting Carbs" | Outcome + timeframe + objection handled |
+| "Sales Training" | "Close 3 New Clients This Week Using Warm Outreach" | Specific result, specific timeframe, specific method |
 
-**Choosing the right desire:**
-```
-TOO VAGUE:          "Improve their business"
-TOO MANY:           "Save time, save money, get organized, reduce stress, increase revenue"
-JUST RIGHT:         "A retirement plan they actually understand"
-```
+**Distribution rule:** Don't gate it behind one channel. Put the lead magnet everywhere - every email signature, every content post CTA, every cold outreach follow-up, your bio on every platform, at the bottom of every blog post. The bottleneck is almost always distribution, not quality.
 
-**The survival filter:** Every desire must connect to survival (physical, emotional, relational, or spiritual). If you can't trace your offer back to a survival need, the customer's brain won't prioritize it.
+## 1. Warm Outreach (Free, 1-to-1)
 
-**Desire selection exercise:**
-1. List every desire your customers have (brain dump)
-2. For each, ask: "Does this relate to survival/thriving?"
-3. Eliminate any that don't
-4. Of the remaining, which ONE creates the strongest story gap?
-5. That's your hero's desire
+Your first and most reliable method. Start here.
 
----
+### 10 Steps
 
-### Module 2: Has a Problem - Advanced
+1. **Get your list** - Phone contacts, email, social media followers
+2. **Pick a platform** - Start where you have the most contacts
+3. **Personalize your message** - Reference something specific
+4. **Reach out** - One by one, not mass blast
+5. **Warm them up** - Give value before asking
+6. **Invite their friends** - "Know anyone who might need X?"
+7. **Make the easiest offer possible** - Free, low-risk first step
+8. **Start at the top** - Begin with closest relationships
+9. **Start charging** - After results, transition to paid
+10. **Keep your list warm** - Continue providing value
 
-**The Villain Framework:**
+### The ACA Framework
 
-The villain is the root cause of your customer's problem. A good villain:
-- Is relatable (customers immediately recognize it)
-- Is singular (one villain, not twelve)
-- Is real (not fabricated or exaggerated)
-- Is something your product can defeat
-
-| Industry | Villain | External | Internal | Philosophical |
-|----------|---------|----------|----------|---------------|
-| Financial Planning | Complexity | "No retirement plan" | "Confused and anxious" | "Retiring well shouldn't require a finance degree" |
-| Pet Store | Impersonal big-box stores | "Can't find quality pet food" | "Feel like a number, not a pet parent" | "Pets deserve better than an aisle in a warehouse" |
-| Home Remodeling | Contractors who overcharge/underdeliver | "Kitchen is outdated" | "Dread dealing with contractors" | "Remodeling shouldn't be a nightmare" |
-
-**Why internal problems drive sales:**
-
-Companies sell solutions to external problems. But customers make buying decisions based on internal frustration. Apple doesn't sell computers (external). Apple sells the feeling of being creative and different (internal). Tesla doesn't sell electric cars (external). Tesla sells the identity of being forward-thinking (internal).
-
-**The philosophical layer** is what turns customers into evangelists. When your product rights a wrong, customers feel they're part of something larger. This is what makes people recommend you without being asked.
-
----
-
-### Module 3: And Meets a Guide - Advanced
-
-**Amy Cuddy's Two Questions:**
-
-Research by Amy Cuddy at Harvard shows that when humans meet someone new, they ask two questions (usually unconsciously):
-1. "Can I trust this person?" (warmth/empathy)
-2. "Can I respect this person?" (competence/authority)
-
-Your brand must answer both. In that order.
-
-**Empathy statements - formula:**
-```
-"We understand what it's like to [specific pain point]."
-"We know how frustrating it is when [specific scenario]."
-"[Target customer group] shouldn't have to deal with [villain]."
-```
-
-**Authority signals - hierarchy of strength:**
-
-| Signal | Strength | Example |
-|--------|----------|---------|
-| Transformation testimonials | Strongest | "Before: confused. After: confidently retired." |
-| Quantified results | Strong | "Helped 10,000+ families build retirement plans" |
-| Recognizable client logos | Strong | Row of company logos on website |
-| Awards/certifications | Moderate | "Certified Financial Planner" |
-| Years in business | Weakest alone | "Serving families since 1987" |
-
-**Common mistakes:**
-- Leading with authority before empathy (arrogant)
-- Overloading testimonials (3-4 strong ones beat 40 weak ones)
-- Using generic testimonials ("Great company!" = useless)
-- Forgetting that the guide is a supporting character, not the star
-
----
-
-### Module 4: Who Gives Them a Plan - Advanced
-
-**Process Plan Design:**
-
-| # Steps | When to Use |
-|---------|-------------|
-| 3 | Simple products, impulse purchases, clear paths |
-| 4-5 | Most B2B services, SaaS products |
-| 6 | Complex engagements (consulting, enterprise, remodels) |
-
-**Naming your plan:** Give it a name that implies ease and results.
-- "The Easy Installation Plan"
-- "The 3-Step Growth System"  
-- "Our Simple Path to [Desired Outcome]"
-
-**Process plan structure:**
-```
-Step 1: [DISCOVERY]     What the customer does first (schedule a call, take a quiz)
-Step 2: [CUSTOMIZATION] What you do for them (create a plan, build the solution)
-Step 3: [OUTCOME]       What life looks like after (enjoy the result, see the transformation)
-```
-
-**Agreement Plan Design:**
-
-Agreement plans address fears. List the top 3-5 fears customers have about doing business with you, then counter each one.
-
-| Customer Fear | Agreement |
-|--------------|-----------|
-| "What if it doesn't work?" | "100% money-back guarantee" |
-| "What if they spam me?" | "We'll never share your email" |
-| "What if I'm locked in?" | "Cancel anytime, no questions asked" |
-| "What if the process is painful?" | "We handle everything - you just approve" |
-
----
-
-### Module 5: And Calls Them to Action - Advanced
-
-**The passivity problem:** Brands afraid to sell clearly end up selling nothing. "Learn More" is not a CTA. "Start Your Free Trial" is.
-
-**Direct CTA placement rules:**
-1. Top right of navigation (or top center on mobile)
-2. Center of hero section
-3. Floating or sticky as user scrolls
-4. End of every section
-5. Bottom of page
-
-**Transitional CTA hierarchy (by conversion power):**
-
-| Type | Conversion Power | Effort to Create |
-|------|-----------------|------------------|
-| Free trial | Highest | Lowest (if product exists) |
-| Assessment/quiz | High | Medium |
-| PDF guide/ebook | Medium-high | Medium |
-| Webinar/video series | Medium | High |
-| Sample/demo | Medium | Varies |
-| Email course | Medium | Medium |
-| Case study download | Lower | Low |
-
-**Lead generator rules:**
-- Solves a real (small) problem immediately
-- Demonstrates expertise
-- Positions your product as the natural next step
-- Is genuinely valuable on its own (not a veiled sales pitch)
-
----
-
-### Module 6: That Helps Them Avoid Failure - Advanced
-
-**Calibrating fear:**
+**A**cknowledge - **C**ompliment - **A**sk
 
 ```
-TOO LITTLE STAKES:                    TOO MUCH STAKES:
-"You might miss out"                  "Your business will die and your family
-                                       will suffer"
-Result: No urgency, no action         Result: Paralysis, distrust, exits page
+Hey [Name], 
 
-JUST RIGHT:
-"Companies without a clear message waste thousands on marketing that doesn't convert.
-Meanwhile, competitors who clarify their message steal your customers."
+[Acknowledge - reference something specific about them]
+[Compliment - genuine praise about their work/life]
+
+I'm working on [thing] and thought of you because [specific reason].
+
+Would you be open to [small ask]?
 ```
 
-**The "one of three" rule:** In any piece of marketing (webpage, email, brochure), reference failure only once for every three references to success. Failure opens the story gap. Success closes it. The overall tone should be aspirational, not fearful.
+Source note: ACA letters and order should be verified against latest book edition; the pattern (acknowledge-then-compliment-then-ask) is the consistent advice.
 
-**Failure language patterns:**
-- "Without [your solution], most [customer type] end up [specific negative outcome]"
-- "The cost of [villain] isn't just [external problem] - it's [internal feeling]"
-- "Every day without [solution], you're [specific loss]"
+### Good vs Bad Warm Outreach
 
----
+| Bad | Good |
+|-----|------|
+| "Hey, long time! Check out my new thing" | "Saw your post about X, congrats! Quick question..." |
+| Mass message to everyone | Personalized, one at a time |
+| Lead with the pitch | Lead with value or curiosity |
+| "Buy my stuff" | "Know anyone who might need X?" |
 
-### Module 7: And Ends in a Success - Advanced
+### Referral Magic Words
+- "Do you know anyone who..."
+- "Who's the most [relevant trait] person you know?"
+- "If you were me, who would you talk to?"
 
-**Specificity is everything.** "Your life will be better" is empty. "You'll cut your bookkeeping time from 10 hours per week to 2" is compelling.
+## 2. Post Free Content (Free, 1-to-Many)
 
-**Success visualization checklist:**
+Build an audience that attracts leads to you.
+
+### Frequency by Platform
+
+Frequency recommendations are general best-practice rather than specific Hormozi prescriptions. Treat as starting points; let your content's performance dictate cadence.
+
+| Platform | Best Format | Typical Frequency |
+|----------|-------------|-------------------|
+| Twitter/X | Threads, insights | High (often daily) |
+| LinkedIn | Stories, frameworks | Multiple times/week |
+| YouTube | Long-form tutorials | Weekly to bi-weekly |
+| TikTok/Reels | Quick tips, hooks | High (often daily) |
+| Podcast | Interviews, deep dives | Weekly |
+
+### The Give-Give-Give-Ask Pattern
+- 3 pieces of pure value
+- 1 piece with a call to action
+- Repeat
+
+### Hook-Retain-Reward Framework
+
+| Stage | Time | Goal |
+|-------|------|------|
+| **Hook** | First 3 seconds | Stop the scroll |
+| **Retain** | Middle | Keep them watching/reading |
+| **Reward** | End | Deliver value so good they want more |
+
+**Rule:** Give until they ask. Don't pitch until they reach out.
+
+### Content That Attracts Leads
+
+| Content Type | Example | Why It Works |
+|--------------|---------|--------------|
+| How-to | "How I got 50 clients in 30 days" | Demonstrates expertise |
+| Case study | "Client went from X to Y" | Proof of results |
+| Contrarian | "Why [common advice] is wrong" | Pattern interrupt |
+| Story | "I was broke, then this happened" | Emotional connection |
+| List | "7 ways to [desired outcome]" | Scannable, shareable |
+
+### Hooks That Work
+- "Most people do X. Here's why that's wrong."
+- "I spent $X learning this so you don't have to."
+- "The #1 mistake I see in [industry]..."
+- "How [person] achieved [result] in [timeframe]"
+
+## 3. Cold Outreach (Free/Cheap, 1-to-1)
+
+Reach strangers who don't know you yet.
+
+### The 3 Cold Outreach Problems
+
+#### Problem 1: "I don't have a list"
+
+| Source | Notes |
+|--------|-------|
+| Buy/scrape lists | Search "outbound leads scraping tool" |
+| LinkedIn Sales Navigator | High-quality but slower |
+| Public directories | Industry-specific, varies |
+| Conferences/events | Attendee lists |
+
+Aim for 1000+ names to start. Volume matters at the cold stage.
+
+#### Problem 2: "What do I say?"
+
+Two keys: **Personalization + Big Fast Value**
+
+**a) Personalization** - Make cold feel warm:
+- Use their name
+- Reference something specific (recent post, company news, mutual connection)
+- Compliment something genuine
+- Show how it benefited you
+
+**b) Big Fast Value** - Not "good enough to charge for" but "stuff people ACTUALLY pay for":
+- Don't tickle interest, BLOW THEIR MINDS in 30 seconds
+- If your lead magnet isn't working, make it bigger
+- Give away something so good they feel stupid saying no
+
+#### Problem 3: "Not enough responses"
+- Automate delivery (pre-recorded messages)
+- Follow up multiple times, multiple ways
+- After finishing list, start over (circumstances change)
+- Wait several months, try again
+
+### Channels
+- Email
+- LinkedIn DM
+- Twitter DM
+- Phone calls
+- Text/WhatsApp
+
+### Cold Email Framework
+
 ```
-[ ] Does it paint a specific picture (not vague "improvement")?
-[ ] Does it address the internal problem (feeling), not just external?
-[ ] Does it show what their LIFE looks like, not just what the PRODUCT does?
-[ ] Can the customer literally picture themselves in the success scenario?
-[ ] Does it connect to the desire stated in Module 1?
-```
+Subject: Quick question about [specific thing they do]
 
-**Identity Transformation - the most powerful success element:**
+Hey [Name],
 
-The most compelling brands don't just solve problems - they transform identity.
+[1 sentence showing you researched them]
 
-| Brand | FROM | TO |
-|-------|------|-----|
-| Apple | Overwhelmed by tech | Creative professional |
-| Dave Ramsey | Drowning in debt | Financially at peace |
-| Harley-Davidson | Cubicle worker | Free spirit |
-| Crossfit | Out of shape | Athlete |
+I help [their type of company] with [specific outcome].
 
-**Crafting your transformation:**
-1. What negative identity does the customer currently hold? (overwhelmed, amateur, stressed)
-2. What aspirational identity does your product enable? (confident, professional, in control)
-3. Every piece of marketing should subtly reinforce this FROM → TO journey
+[One sentence of proof/credibility]
 
----
+Would you be open to a quick chat this week?
 
-## Website Framework - Deep Dive
-
-### Above the Fold (First Screen)
-
-```
-+----------------------------------------------------------+
-|  LOGO    [Nav Item] [Nav Item] [CTA BUTTON - bold color]  |
-|                                                            |
-|    [HEADLINE: The offer - what you do]                     |
-|    [SUB: How it makes life better - 1 sentence]            |
-|                                                            |
-|    [CTA BUTTON]        [Transitional CTA - text link]      |
-|                                                            |
-|    [IMAGE: Customer in successful end state]                |
-+----------------------------------------------------------+
-```
-
-**Headline rules:**
-- States what you offer in 5-8 words max
-- Connects to a survival need
-- NOT your company name, NOT a clever slogan
-- Good: "A Website That Brings You Customers"
-- Bad: "Welcome to Acme Digital Solutions - Innovating Since 2005"
-
-**Image rules:**
-- Show the end state, not the process
-- Show people (not product screenshots unless the product IS the end state)
-- Show happiness, success, resolution
-- NOT your office, NOT your team photo, NOT abstract stock photos
-
-### Section 2: Stakes + Value
-
-Show what's at risk (failure) and what's to gain (success). Two short sections.
-
-### Section 3: The Plan
-
-Display your 3-step process plan with icons or numbers.
-
-### Section 4: Explanatory Paragraph
-
-One short paragraph that empathizes with the customer's pain and positions you as the guide. 3-4 sentences max.
-
-### Section 5: Video (Optional)
-
-If you use video, keep it under 2 minutes. Follow the SB7 structure within the video.
-
-### Section 6: Price/Product Breakdown
-
-If you have multiple offerings, show them as simple categories. Don't overwhelm.
-
-### Section 7: Bottom CTA
-
-Repeat the direct CTA. Different phrasing is fine. Same action.
-
----
-
-## Marketing Roadmap - Deep Dive
-
-### Task 1: The One-Liner
-
-**Formula:** Problem + Solution + Result
-
-**Construction process:**
-1. Identify the villain/problem (1 sentence)
-2. Describe your solution (1 sentence)
-3. Paint the success picture (1 sentence)
-
-**Where to use it:**
-- Email signature
-- Social media bios
-- Business cards
-- Elevator pitches
-- Website header or subhead
-- Conference name tags
-- Phone voicemail
-- Team training (everyone should be able to recite it)
-
-### Task 2: Lead Generator
-
-**Five types that work:**
-
-| Type | Best For | Example |
-|------|----------|---------|
-| Downloadable PDF | Expertise-based businesses | "5 Mistakes That Cost Homeowners Thousands" |
-| Online course / video series | Complex products | "Free 3-Day Email Course: Master Your Finances" |
-| Software demo / free trial | SaaS products | "Try It Free for 14 Days" |
-| Assessment / quiz | Consulting, services | "Take Our 5-Minute Marketing Assessment" |
-| Live event / webinar | High-touch, B2B | "Join Our Free Workshop: Clarify Your Message" |
-
-**Title formula:** "[Number] [Mistakes/Ways/Steps/Secrets] to [Desired Outcome]"
-
-### Task 3: Email Drip Campaign
-
-**Nurture sequence structure (recommended):**
-
-| Email # | Type | Content |
-|---------|------|---------|
-| 1 | Deliver asset | Lead generator + welcome |
-| 2 | Value | Tip or insight related to their problem |
-| 3 | Value | Case study or story |
-| 4 | Value | Another tip or resource |
-| 5 | Sales | Direct offer with CTA |
-| 6 | Value | More tips, establish ongoing relationship |
-
-**Rules:**
-- Nurture emails: 80% of sends. No selling, just value.
-- Sales emails: 20% of sends. Clear offer, clear CTA.
-- Every email should be short, scannable, and have ONE focus.
-- Subject lines should create curiosity (Unexpected principle from Made to Stick applies here).
-
-### Task 4: Transformation Testimonials
-
-**Don't collect:** "Great service!" / "5 stars!" / "Would recommend!"
-
-**Do collect:** Before/after stories using this prompt:
-```
-1. What was the problem you were dealing with before you found us?
-2. What did the frustration feel like as you tried to solve it?
-3. What was different about our product/service?
-4. What does life look like now?
+[Your name]
 ```
 
-**Format:** "[Before problem]. Then [discovery of your brand]. Now [transformed outcome]."
+### Volume Note
 
-### Task 5: Referral System
+Specific daily volumes and response rates vary widely by industry, channel quality, list source, and offer. Treat any single number as directional. The actionable rule: 
 
-**Simple system:**
-1. Identify your happiest customers (NPS 9-10, repeat buyers, vocal advocates)
-2. Create a shareable asset (referral link, gift card to give, co-branded content)
-3. Make the ask at the moment of highest satisfaction (right after success)
-4. Reward both referrer and referred (not just one)
+- Volume must be high enough to surface signal through noise
+- If response rate is below your industry's typical floor, the message is broken before more volume helps
+- Double-digit response rates suggest strong personalization; sub-1% suggests broken targeting or message
 
----
+### Follow-Up Sequence
 
-## The SB7 in Company Culture
+Generic best-practice cadence (varies by channel and relationship):
 
-The SB7 Framework isn't just for external marketing. It works internally:
+| Day | Action |
+|-----|--------|
+| 1 | Initial outreach |
+| 3 | Bump ("Did you see this?") |
+| 7 | New angle/value |
+| 14 | Last chance/break-up |
 
-**Mission as narrative:**
-```
-External version (marketing):   "We help [customer] overcome [problem] to achieve [success]."
-Internal version (culture):     "We are guides who help [customer] defeat [villain]."
-```
+Source note: The "X% of sales happen after Y follow-ups" statistic is widely cited in sales literature but not specifically a Hormozi claim. The actionable principle (most people quit too early on follow-up) is reliable; specific percentages should be treated skeptically.
 
-When every employee understands the customer's story, they can make decisions aligned with it - without asking permission. This is StoryBrand's version of Commander's Intent (from Made to Stick).
+## Channel Selection Decision Matrix
 
-**Meeting structure using SB7:**
-1. What does the customer want? (Character)
-2. What's blocking them? (Problem)
-3. How are we guiding them? (Guide)
-4. What's our plan? (Plan)
-5. What specifically are we asking them/us to do? (CTA)
-6. What happens if we don't? (Failure)
-7. What does success look like? (Success)
+| Resource Profile | Recommended Start |
+|------------------|-------------------|
+| 0 customers, no money, time | Warm outreach |
+| 10+ customers, no money, time | Cold outreach OR content |
+| 10+ customers, some money, no time | Paid ads (start small) |
+| 10+ customers, money + time | Cold outreach + content (parallel) |
+| 50+ customers, profitable | Add paid ads, then lead getters |
+
+## Channel Mastery Checklist
+
+A channel is "mastered" when:
+
+- [ ] You can predict cost per lead within ~30%
+- [ ] You can predict conversion to customer within ~30%
+- [ ] You have a documented playbook a new hire could follow
+- [ ] The unit economics work without you personally driving them
+- [ ] You can scale spend or volume 10x without breaking
+
+Until those are true, don't add another channel.
